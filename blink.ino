@@ -22,3 +22,7 @@ void loop() {
   digitalWrite(led, LOW);    // turn the LED off by making the voltage LOW
   delay(2000);               // wait for a second
 }
+
+
+Putting in more changes in the files that I am writing right now... In the database and beeing pushed to teh server... Right now. Immediately
+
