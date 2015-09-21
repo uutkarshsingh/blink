@@ -1,7 +1,8 @@
-HANGIN GGTOM UUKARSHSINGH
-putting this from office
-/*
-  Blink
+
+
+RESULT AFTER MERGING IN THE CHANGES IN THE REPOSITORY
+
+
   Turns on an LED on for one second, then off for one second, repeatedly.
  
   This example code is in the public domain.
